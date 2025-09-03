@@ -3,5 +3,6 @@
 
 #pragma once
 
-#define TAPPING_TERM 750
+#define TAPPING_TERM 440
+#define QUICK_TAP_TERM 60
 #define PERMISSIVE_HOLD
