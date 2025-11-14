@@ -81,3 +81,6 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
     )
 };
 
+bool get_combo_must_tap(uint16_t combo_index, combo_t *combo) {
+    return true;
+}
