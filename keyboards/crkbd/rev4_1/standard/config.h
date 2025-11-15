@@ -1,8 +1,8 @@
 #pragma once
 
-#define TAPPING_TERM 300
+#define TAPPING_TERM 250
 #define QUICK_TAP_TERM 90
 #define PERMISSIVE_HOLD
-#define COMBO_TERM 45
+#define COMBO_TERM 42
 #define COMBO_MUST_TAP_PER_COMBO
-#define COMBO_HOLD_TERM 80
+#define COMBO_HOLD_TERM 100
